@@ -1,0 +1,8 @@
+.alert-success {
+    --bs-alert-color: #0f5132;
+    --bs-alert-bg: green;
+    --bs-alert-border-color: #badbcc;
+    color: white;
+    font-size: 35px;
+    font-family: 'calebiri';
+}
